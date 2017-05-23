@@ -1,0 +1,12 @@
+c:\users\p501\documents\visual studio 2017\Projects\22.05.2017\22.05.2017\bin\Debug\22.05.2017.exe.config
+c:\users\p501\documents\visual studio 2017\Projects\22.05.2017\22.05.2017\bin\Debug\22.05.2017.exe
+c:\users\p501\documents\visual studio 2017\Projects\22.05.2017\22.05.2017\bin\Debug\22.05.2017.pdb
+c:\users\p501\documents\visual studio 2017\Projects\22.05.2017\22.05.2017\obj\Debug\22.05.2017.csprojResolveAssemblyReference.cache
+c:\users\p501\documents\visual studio 2017\Projects\22.05.2017\22.05.2017\obj\Debug\22.05.2017.exe
+c:\users\p501\documents\visual studio 2017\Projects\22.05.2017\22.05.2017\obj\Debug\22.05.2017.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\p301-22-05-2017-LeylaGarayeva-master\22.05.2017\bin\Debug\22.05.2017.exe.config
+C:\Users\USER\Documents\Visual Studio 2013\Projects\p301-22-05-2017-LeylaGarayeva-master\22.05.2017\obj\Debug\22.05.2017.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\p301-22-05-2017-LeylaGarayeva-master\22.05.2017\obj\Debug\22.05.2017.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\p301-22-05-2017-LeylaGarayeva-master\22.05.2017\bin\Debug\22.05.2017.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\p301-22-05-2017-LeylaGarayeva-master\22.05.2017\bin\Debug\22.05.2017.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\p301-22-05-2017-LeylaGarayeva-master\22.05.2017\obj\Debug\22.05.2017.csprojResolveAssemblyReference.cache
